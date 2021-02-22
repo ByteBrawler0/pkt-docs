@@ -1,0 +1,8 @@
+build
+dist
+mkdocs_pkt.egg-info/
+.vscode
+site/*
+pkt/__pycache__/*
+.DS_Store
+.venv
